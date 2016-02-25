@@ -28,6 +28,11 @@
         <url>https://github.com/infusion-wro/mongoutils-maven-plugin</url>
     </issueManagement>
 
+    <ciManagement>
+        <system>Travis CI</system>
+        <url>https://travis-ci.org/infusion-wro/mongoutils-maven-plugin</url>
+    </ciManagement>
+
     <scm>
         <url>https://github.com/infusion-wro/mongoutils-maven-plugin</url>
         <connection>scm:git:git@github.com:infusion-wro/mongoutils-maven-plugin.git</connection>

@@ -1,4 +1,4 @@
-mongoutils-maven-plugin
+mongoutils-maven-plugin [![Build Status](https://travis-ci.org/infusion-wro/mongoutils-maven-plugin.svg?branch=master)](https://travis-ci.org/infusion-wro/mongoutils-maven-plugin)
 =======================
 
 This plugin lets you run the following commands against a MongoDB instance during a Maven build:
