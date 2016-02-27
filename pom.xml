@@ -33,6 +33,15 @@
         <developerConnection>scm:git:git@github.com:infusion-wro/mongoutils-maven-plugin.git</developerConnection>
     </scm>
 
+    <developers>
+        <developer>
+            <name>Remigiusz Cieslak</name>
+            <email>rcieslak@infusion.com</email>
+            <organization>Infusion</organization>
+            <organizationUrl>http://www.infusion.com</organizationUrl>
+        </developer>
+    </developers>
+
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
